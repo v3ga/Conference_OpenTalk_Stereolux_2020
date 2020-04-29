@@ -12,4 +12,4 @@
 * [Edge of Panic](https://www.youtube.com/watch?v=bkGBmBIFOaI) / [ACCS](https://demozoo.org/groups/32195/) / 1993
 
 #### Liens
-[Démos et merveilles](http://www.codercorner.com/DemosEtMerveilles.htm) / Pierre Terdimand
+* [Démos et merveilles](http://www.codercorner.com/DemosEtMerveilles.htm) / Pierre Terdimand<br />*Une introduction au petit monde de la démo*
