@@ -1,5 +1,7 @@
 # OpenTalk
 ![OpenTalk!](_images/OpenTalk_Stereolux_web.jpg)
+<br />
+Cette page présente les liens vers les références présentées en ligne lors de l'évènement OpenTalk le 6 mai 2020. 
 
 ## Demomania
 ![Demos](_images/OpenTalk_Stereolux_demos_intros.jpg)
