@@ -1,4 +1,5 @@
 # OpenTalk
+![OpenTalk!](_images/OpenTalk_Stereolux_web.jpg)
 
 ## Demomania
 ![Demos](_images/OpenTalk_Stereolux_demos_intros.jpg)
