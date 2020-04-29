@@ -10,5 +10,5 @@
 * [Brain Damage](https://www.youtube.com/watch?v=EG0fk2o88xg) / Kruz & [Aggression](https://demozoo.org/groups/365/) / 1993
 * [Soldier of Light cracktro](https://www.youtube.com/watch?v=m4YcjQ9j7Bw) / [The Replicants](https://demozoo.org/groups/31491/) / 1988
 * [The Twiddle demo](https://youtu.be/nqHK4IQhtVo?t=1694) / [The Lost Boys](https://demozoo.org/groups/36386/) / Dark side of the spoon by [ULM](https://demozoo.org/groups/2274/) / 1991
-* [Edge of Panic] / [ACCS](https://www.youtube.com/watch?v=bkGBmBIFOaI) / 1993
+* [Edge of Panic](https://www.youtube.com/watch?v=bkGBmBIFOaI) / [ACCS](https://demozoo.org/groups/32195/) / 1993
 
