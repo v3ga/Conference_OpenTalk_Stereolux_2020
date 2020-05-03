@@ -16,3 +16,28 @@ Cette page présente les liens vers les références présentées en ligne lors 
 
 #### Liens
 * [Démos et merveilles](http://www.codercorner.com/DemosEtMerveilles.htm) / Pierre Terdimand<br />*Une introduction au petit monde de la démo*<br />*A l'origine était le piratage. Au départ, quand un groupe de pirates crackait un nouveau jeu, son nom était affiché à l'écran durant le chargement.*
+
+## 2Roqs
+* Installations typographiques : [Gravity](https://vimeo.com/3884343) / [Expression](https://vimeo.com/12399772) / [Textopolis](https://vimeo.com/39883474) / [Aquatypes](https://vimeo.com/28986231) / [Calligrammes](https://vimeo.com/116154639)
+* [O mio babbino caro](https://vimeo.com/224324907)
+* Collaborations : 
+  * [La cité du vin](https://www.flickr.com/photos/2roqs/albums/72157670020909234) avec [Grand Angle](http://grandangle.com/).
+  * [Les boites CAPC](http://www.lesboitescapc.fr/) avec [Kubik](http://www.kubik.fr/) et [Zamak](https://zamak.design/).
+  * [Murmur](https://vimeo.com/67242728) avec [Chevalvert](http://www.chevalvert.fr/), [Polygraphik](http://polygraphik.com/) et [Splank](https://www.splankstudio.com/)
+
+## Code + Print
+* [Ombrocessing](https://vimeo.com/267686259)
+* [Processing Bordeaux](https://github.com/v3ga/Processing-Bordeaux-posters)
+* 
+
+## Artistes pionniers
+* [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
+* [Michaël Noll](http://dada.compart-bremen.de/item/agent/16)
+* [Vera Molnar](http://www.veramolnar.com/)
+* [Frieder Nake](http://dada.compart-bremen.de/item/agent/68)
+* [Edward Zajec](http://edwardzajec.com/)
+* [Wacław Szpakowski](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
+
+#### Liens
+* [Recode project](http://www.recodeproject.com/)
+* [Computer history](https://github.com/v3ga/computer_history)
