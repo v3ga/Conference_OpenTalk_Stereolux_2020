@@ -33,7 +33,7 @@ Cette page présente les liens vers les références présentées en ligne lors 
 #### Liens
 * [AATB — Practice for non-industrial robotics](http://www.aatb.ch/)
 * [Atelier SerreJoint](https://www.atelierserrejoint.com/)
- * [sérigraphies Julien Gachadoat](https://www.atelierserrejoint.com/product-tag/julien-gachadoat/)
+  * [sérigraphies Julien Gachadoat](https://www.atelierserrejoint.com/product-tag/julien-gachadoat/)
  
 ## Artistes pionniers
 * [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
