@@ -26,10 +26,15 @@ Cette page présente les liens vers les références présentées en ligne lors 
   * [Murmur](https://vimeo.com/67242728) avec [Chevalvert](http://www.chevalvert.fr/), [Polygraphik](http://polygraphik.com/) et [Splank](https://www.splankstudio.com/)
 
 ## Code + Print
-* [Ombrocessing](https://vimeo.com/267686259)
+* [Algorithmes typographiques](http://lacleamolette.fr/ouvrage/algorithmes-typographiques/)
 * [Processing Bordeaux](https://github.com/v3ga/Processing-Bordeaux-posters)
-* 
+* [Ombrocessing](https://vimeo.com/267686259)
 
+#### Liens
+* [AATB — Practice for non-industrial robotics](http://www.aatb.ch/)
+* [Atelier SerreJoint](https://www.atelierserrejoint.com/)
+ * [sérigraphies Julien Gachadoat](https://www.atelierserrejoint.com/product-tag/julien-gachadoat/)
+ 
 ## Artistes pionniers
 * [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
 * [Michaël Noll](http://dada.compart-bremen.de/item/agent/16)
