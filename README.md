@@ -28,8 +28,8 @@ Cette page présente les liens vers les références présentées en ligne lors 
   * [360 000](https://vimeo.com/45195510) pour les Nuits sonores 2012 avec [Screen-Club](https://www.screen-club.com/) et [Looking for Achitecture](http://www.lookingforarchitecture.com/)
 
 #### Liens
- * [ofxJavascript](https://github.com/v3ga/ofxJavascript) avec en lien sur la page des références de projets utilisant cet add-on.
- 
+ * [ofxJavascript](https://github.com/v3ga/ofxJavascript)<br />*Moteur JS intégrable à Openframeworks, avec en lien des références de projets utilisant cet add-on.*
+
 
 ## Code >> impressions
 * [Algorithmes typographiques](http://lacleamolette.fr/ouvrage/algorithmes-typographiques/)
