@@ -38,6 +38,7 @@ Cette page présente les liens vers les références présentées en ligne lors 
 
 #### Liens
 * [Evil Mad Science — Axidraw](https://axidraw.com/)
+* [Generative Hut](https://www.generativehut.com/)
 * [AATB — Practice for non-industrial robotics](http://www.aatb.ch/)
 * [Atelier SerreJoint](https://www.atelierserrejoint.com/)
   * [sérigraphies Julien Gachadoat](https://www.atelierserrejoint.com/product-tag/julien-gachadoat/)
