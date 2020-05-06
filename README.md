@@ -18,7 +18,7 @@ Cette page présente les liens vers les références présentées en ligne lors 
 * [Démos et merveilles](http://www.codercorner.com/DemosEtMerveilles.htm) / Pierre Terdimand<br />*Une introduction au petit monde de la démo*<br />*A l'origine était le piratage. Au départ, quand un groupe de pirates crackait un nouveau jeu, son nom était affiché à l'écran durant le chargement.*
 
 ## 2Roqs
-* [Site web 2Roqs](http://www.2roqs.com/)
+* [Site web 2Roqs](http://www.2roqs.com/) + [Vimeo](https://vimeo.com/tworoqs) + [Flickr](https://www.flickr.com/photos/2roqs/albums/)
 * Installations typographiques : [Gravity](https://vimeo.com/3884343) / [Expression](https://vimeo.com/12399772) / [Textopolis](https://vimeo.com/39883474) / [Aquatypes](https://vimeo.com/28986231) / [Calligrammes](https://vimeo.com/116154639)
 * [O mio babbino caro](https://vimeo.com/224324907)
 * Collaborations : 
